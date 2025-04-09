@@ -20,7 +20,6 @@ This is a basic React application that lets users maintain a list of items. User
 
 2. **Install Dependencies**: Navigate to the project folder and run the following command to install necessary libraries.
    ```
-   cd my-simple-app
    npm install
    ```
 
