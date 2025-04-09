@@ -13,6 +13,11 @@ This is a basic React application that lets users maintain a list of items. User
 
 ## Setup Instructions
 
+0. If you don't have npm
+   ```
+   brew install node
+   ```
+
 1. **Clone the Repository**: Download or clone this repository to your local machine.
    ```
    git clone https://github.com/Just-SM/Lumos-Front-task
